@@ -56,7 +56,4 @@ Each technique is explained with theory, implemented using Python, and visualize
    - Kernel PCA and t-SNE worked well for non-linear separability.
    - Factor Analysis failed to capture key variations in the medical dataset.
 
-Youtube links:
 
-1. Dimensionality_Reduction_Techniques_on_Tabular_Data: https://youtu.be/2mfE0YZwBUg
-2. Dimensionality_Reduction_Techniques_Image_Data: https://youtu.be/Ln1zNJobIhc
