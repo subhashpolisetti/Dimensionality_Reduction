@@ -72,7 +72,7 @@ Scalable implementation of dimensionality reduction on Databricks for large data
 ### 3. [Dimensionality Reduction for Images and Tabular Data](https://github.com/subhashpolisetti/Dimensionality_Reduction/blob/main/Dimensionality_Reduction_Tabular_Data.ipynb)  
 Includes techniques applied on both image and tabular datasets, including medical datasets.
 
-### 4. [Video Demonstration](https://www.youtube.com/playlist?list=PL6O21IOHvBmcYb6nGLE_dHmEbm2Y2_jp-)  
+### 4. [Video Demonstration](https://drive.google.com/drive/folders/1rqq3_SqfZpaSAcj5LMMc0LiLdAQ1NRoP?usp=sharing)  
 Watch the video demonstration of dimensionality reduction techniques and their applications.
 
 
